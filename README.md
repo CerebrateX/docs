@@ -61,3 +61,12 @@ III、prompt engineering. Simply: ① Share the facts; ② Define the direction;
 ㉗ Change Management Change holds the paradox of both change and constancy. Diagnose the motivations, resistances, and fitness of change from the multiple dimensions of environment, strategy, organization, systems, and personnel. Follow the three-stage logic of unfreezing, advancing, and solidifying; create a sense of urgency for change, forge consensus and a shared vision, and rely on dedicated teams for professional execution. Holistically manage all kinds of resistance involving people vs. systems, and interests vs. habits; strengthen communication, guidance, and incentive guarantees; realize behavioral and structural shifts step by step, and ultimately institutionalize and normalize the results of the change, driving the organization to complete its iterative upgrade.
 
 ㉘ Market Value Management Manage market expectations of future free cash flows, executing work around the three major dimensions of cognition, growth, and narrative. Cover pre-IPO, near-IPO, and post-IPO stages; coordinate valuation shaping, business structure optimization, financial standardization, and investor relations. Focus on the four core elements: growth expectations, operational certainty, earnings quality, and industry scarcity. Integrate capital logic into enterprise strategy and daily operations to guide the market toward forming a rational value judgment.
+
+
+Web Entrace：https://www.cerebratex.com
+
+Mac(Silicon)：https://www.cerebratex.com/CerebrateX-mac-arm64.dmg
+
+Mac(Intel)：https://www.cerebratex.com/CerebrateX-mac-x64.dmg
+
+Windows：https://www.cerebratex.com/CerebrateX-win-x64.exe
