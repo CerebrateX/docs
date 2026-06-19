@@ -3,6 +3,8 @@ Official documentation and product showcase for Management Mentor AI (CerebrateX
 I、Beyond Q&A · Toward Management Guidance
 II、28 Guided Workflows — One Is Likely Your Priority Right Now Forget
 III、prompt engineering. Simply: ① Share the facts; ② Define the direction; ③ Exercise managerial judgment.
+
+
 28 Guided Workflows Explained
 
 ① Starting from Scratch Create new organizations and market orders in uncertain environments. Complete the cognitive assessment of market, demand, competition, and timing to verify the authenticity of opportunities; focus on polishing Product-Market Fit (PMF) and build a sustainable value exchange system. Resolve risks layer by layer — including opportunity, product, business model, organization, capital, and strategy — while synchronously completing the iterative evolution from an individual or small team to a systematized, platform-based organization. With verification first, risk control as the foundation, and organizational evolution at the core, drive personal ideas to land as market-recognized business forms, gradually growing into a formal organization.
