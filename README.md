@@ -1,5 +1,6 @@
 # docs
 Official documentation and product showcase for Management Mentor AI (CerebrateX).
+<img width="1024" height="1536" alt="海报英" src="https://github.com/user-attachments/assets/e9637cb0-1423-453a-8378-d77987b70f38" />
 I、Beyond Q&A · Toward Management Guidance
 II、28 Guided Workflows — One Is Likely Your Priority Right Now Forget
 III、prompt engineering. Simply: ① Share the facts; ② Define the direction; ③ Exercise managerial judgment.
@@ -70,6 +71,3 @@ Mac(Silicon)：https://www.cerebratex.com/CerebrateX-mac-arm64.dmg
 Mac(Intel)：https://www.cerebratex.com/CerebrateX-mac-x64.dmg
 
 Windows：https://www.cerebratex.com/CerebrateX-win-x64.exe
-
-<img width="1024" height="1536" alt="海报英" src="https://github.com/user-attachments/assets/e9637cb0-1423-453a-8378-d77987b70f38" />
-
